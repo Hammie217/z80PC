@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 71256SA12TPG)(type Legacy)(uri /Users/hamishsams/Downloads/LIB_71256SA12TPG/71256SA12TPG/KiCad/71256SA12TPG.mod)(options "")(descr ""))
+  (lib (name Z84C2006PEG)(type Legacy)(uri /Users/hamishsams/Downloads/LIB_Z84C2006PEG/Z84C2006PEG/KiCad/Z84C2006PEG.mod)(options "")(descr ""))
+)
